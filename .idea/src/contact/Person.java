@@ -5,7 +5,9 @@ public class Person {
     String firstName;
     String lastName;
     ArrayList<String> phoneNumber;
+    String email;
 
     public Person(){
     }
+
 }
